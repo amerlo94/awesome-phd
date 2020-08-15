@@ -1,8 +1,11 @@
 # Awesome PhD [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome advice, tips and resources to prepare for PhD/grad school. Inspired by awesome [@lexing](https://twitter.com/lexing) & [@jeanqasaur](https://twitter.com/jeanqasaur).
 
-If you want to contribute to this list (PLEASE DO), read the [contribution guidelines](https://github.com/alirezasmr/awesome-phd/blob/master/contributing.md), send a pull request or contact me [@alirezasmr](https://twitter.com/alirezasmr).
+> Carefully curated list of awesome advice, tips and resources to prepare for PhD/grad school.
+
+Contributions welcome. Add links through pull requests or create an issue to start a discussion.
+
+It's always been sad to see a service shutdown, or hardware stop renew, here is the list we gather that have this tough decision [Archived](ARCHIVED.md)
 
 ## Table of Contents
 

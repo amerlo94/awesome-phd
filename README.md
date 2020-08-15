@@ -7,19 +7,13 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 It's always been sad to see a service shutdown, or hardware stop renew, here is the list we gather that have this tough decision [Archived](ARCHIVED.md).
 
-## Table of Contents
+## Contents
 
-<!-- MarkdownTOC depth=4 -->
+- [Pursuing a PhD](#pursuing-a-phd)
+- [Research](#research)
+- [Tools](#tools)
 
-- [Pursuing a PhD / grad school guidance](#pursuing-a-phd--grad-school-guidance)
-- [Research, and the research career](#research-and-the-research-career)
-    - [Advice & tips](#advice--tips)
-    - [Publishing and presenting](#publishing-and-presenting)
-    - [Writing tools](#writing-tools)
-- [Miscellaneous](#miscellaneous)
-
-<!-- /MarkdownTOC -->
-## Pursuing a PhD / grad school guidance
+## Pursuing a PhD
 
 * [The Illustrated Guide to a Ph.D.](http://matt.might.net/articles/phd-school-in-pictures/)
 * [A Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/)
@@ -45,7 +39,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 * [So long, and thanks for the Ph.D.!](http://www.cs.unc.edu/~azuma/hitch4.html)
 * [A Happy PhD: A blog about doctoral productivity, supervision and wellbeing](https://ahappyphd.org/)
 
-## Research, and the research career
+## Research
 
 ### Advice & tips
 * [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
@@ -71,12 +65,11 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 * [Steps to Write a Survey Paper](http://researchpedia.info/steps-to-write-a-survey-paper/)
 * [The Literature Review: A Few Tips on Conducting It](http://www.writing.utoronto.ca/advice/specific-types-of-writing/literature-review)
 
+## Tools
+
+> For research tools, check out [awesome-research](https://github.com/emptymalei/awesome-research) on GitHub.
+
 ### Writing tools
 * [The Blue Book of Grammar](http://www.grammarbook.com/)
 * [ShareLaTeX](https://www.sharelatex.com/)
 * [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures)
-
-
-## Miscellaneous
-
-* [Awesome Research Tools](https://github.com/emptymalei/awesome-research)

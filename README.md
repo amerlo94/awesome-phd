@@ -5,7 +5,7 @@
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 
-It's always been sad to see a service shutdown, or hardware stop renew, here is the list we gather that have this tough decision [Archived](ARCHIVED.md)
+It's always been sad to see a service shutdown, or hardware stop renew, here is the list we gather that have this tough decision [Archived](ARCHIVED.md).
 
 ## Table of Contents
 

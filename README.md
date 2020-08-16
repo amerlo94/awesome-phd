@@ -1,4 +1,5 @@
-# Awesome PhD [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome PhD
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![License: CC0-1.0](https://img.shields.io/github/license/amerlo94/awesome-phd)](https://github.com/amerlo94/awesome-phd/blob/master/LICENSE)
 
 > Carefully curated list of awesome advice, tips and resources to prepare for PhD/grad school.
 

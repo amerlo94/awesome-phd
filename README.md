@@ -1,6 +1,6 @@
 # Awesome PhD [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC0-1.0](https://img.shields.io/github/license/amerlo94/awesome-phd)](https://github.com/amerlo94/awesome-phd/blob/master/LICENSE)
 
-> Carefully curated list of awesome advices, tips and resources for PhD/graduate school.
+> A carefully curated list of awesome advices, tips and resources for PhD/graduate school.
 
 This is a fork of this [awesome-phd](https://github.com/imalisamar/awesome-phd) list.
 

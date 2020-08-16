@@ -19,6 +19,7 @@ Contributions are welcome. Add links through pull requests or create an issue to
   - [Publishing](#publishing)
 - [Tools](#tools)
   - [Writing](#writing)
+  - [Plotting](#plotting)
   - [Programming](#programming)
 
 ## Applying for a PhD
@@ -91,6 +92,10 @@ Contributions are welcome. Add links through pull requests or create an issue to
 
 - [The Blue Book of Grammar](http://www.grammarbook.com/) - The Blue Book of Grammar and Punctuation is a concise, entertaining workbook and guide to English grammar, punctuation, and usage.
 - [Overleaf](https://www.overleaf.com/) - The easy to use, online, collaborative LaTeX editor.
+
+### Plotting
+
+- [tikzplotlib](https://github.com/nschloe/tikzplotlib) - A Python tool for converting matplotlib figures into PGFPlots (PGF/TikZ) figures like.
 
 ### Programming
 

@@ -11,7 +11,10 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 
 - [Pursuing a PhD](#pursuing-a-phd)
 - [Research](#research)
+    - [Advice & Tips](#advice-&-tips)
+    - [Publishing and presenting](#publishing-and-presenting)
 - [Tools](#tools)
+    - [Writing Tools](#writing-tools)
 
 ## Pursuing a PhD
 

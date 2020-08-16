@@ -2,9 +2,9 @@
 
 > Carefully curated list of awesome advice, tips and resources to prepare for PhD/grad school.
 
-Contributions welcome. Add links through pull requests or create an issue to start a discussion.
+This is a fork of this [awesome-phd](https://github.com/imalisamar/awesome-phd) list.
 
-It's always been sad to see a service shutdown, or hardware stop renew, here is the list we gather that have this tough decision [Archived](ARCHIVED.md).
+Contributions are welcome. Add links through pull requests or create an issue to start a discussion. It's always been sad to see a service discontinue, a blog shutdown or an article been moved. Here is the list where we gather these things [Archived](ARCHIVED.md).
 
 ## Contents
 

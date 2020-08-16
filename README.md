@@ -1,5 +1,4 @@
-# Awesome PhD
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC0-1.0](https://img.shields.io/github/license/amerlo94/awesome-phd)](https://github.com/amerlo94/awesome-phd/blob/master/LICENSE)
+# Awesome PhD [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC0-1.0](https://img.shields.io/github/license/amerlo94/awesome-phd)](https://github.com/amerlo94/awesome-phd/blob/master/LICENSE)
 
 > Carefully curated list of awesome advice, tips and resources to prepare for PhD/grad school.
 
@@ -11,10 +10,10 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 
 - [Pursuing a PhD](#pursuing-a-phd)
 - [Research](#research)
-    - [Advice & Tips](#advice-&-tips)
-    - [Publishing and presenting](#publishing-and-presenting)
+  - [Advice and tips](#advice-and-tips)
+  - [Publishing and presenting](#publishing-and-presenting)
 - [Tools](#tools)
-    - [Writing Tools](#writing-tools)
+  - [Writing tools](#writing-tools)
 
 ## Pursuing a PhD
 
@@ -41,7 +40,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 
 ## Research
 
-### Advice & tips
+### Advice and tips
 
 - [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html) - Why do so few scientists make significant contributions and so many are forgotten in the long run?
 - [How to Have a Bad Career in Research/Academia](https://people.eecs.berkeley.edu/~pattrsn/talks/research.pdf) - Talk which includes advice for graduate students and people starting their research careers post PhD.

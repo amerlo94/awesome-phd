@@ -83,6 +83,7 @@ Contributions are welcome. Add links through pull requests or create an issue to
 - [Coping With Issues of Sloppiness and Carelessness in Writing](http://asegrp.blogspot.my/2011/06/coping-with-issues-of-sloppiness-and.html) - Initial suggestions to students on how to cope with the issues of sloppiness and carelessness in writing.
 - [Steps to Write a Survey Paper](http://researchpedia.info/steps-to-write-a-survey-paper/) - Post on how to write a survey paper/review article.
 - [The Literature Review](http://www.writing.utoronto.ca/advice/specific-types-of-writing/literature-review) - A few tips on conducting it.
+- [The Craft of Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM&feature=youtu.be) - Helpful rules, skills, and resources that are available to graduate students interested in further developing their writing style.
 
 ## Tools
 

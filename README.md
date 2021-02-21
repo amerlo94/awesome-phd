@@ -41,7 +41,7 @@ It's always been sad to see a service shutdown, a blog stopped or an article bee
 
 ## Pursuing a PhD
 
-### Everygreen
+### Evergreen
 
 - [A Happy PhD: A blog about doctoral productivity, supervision and wellbeing](https://ahappyphd.org/) - A blog about doctoral productivity, supervision and wellbeing.
 - [The Ph.D. Grind](http://bcmi.sjtu.edu.cn/home/niuli/resource/pguo-PhD-grind.pdf) - A Ph.D. Student Memoir.

@@ -12,4 +12,5 @@ This is the place to collect resources that are no longer valid or services whic
 - [How to Write a PhD Abstract: An Interactive Guide to the Purpose, Parts & Process](https://crq.adobeconnect.com/abstract/)
 - [Poster Perfect](http://www.the-scientist.com/?articles.view/articleNo/31071/title/Poster-Perfect/)
 - [ShareLaTeX](https://www.sharelatex.com/)
+- [Why Am I in Graduate School?](http://cra-ccc.org/lifeofacsgs/why-am-i-in-graduate-school) - Three reasons to jump in graduate school.
 

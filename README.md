@@ -27,7 +27,6 @@ It's always been sad to see a service shutdown, a blog stopped, or an article be
 
 ### Why a PhD
 
-- [Why Am I in Graduate School?](http://cra-ccc.org/lifeofacsgs/why-am-i-in-graduate-school) - Three reasons to jump in graduate school.
 - [Do You Need a PhD?](http://matt-welsh.blogspot.my/2012/03/do-you-need-phd.html) - Whether it's "worth it" to get a PhD in Computer Science if you're not planning a research career.
 - [So, You Want to Go to Grad School?](http://matt-welsh.blogspot.my/2010/09/so-you-want-to-go-to-grad-school.html) - A blog post which talks about why to do a PhD in Computer Science, and why not to do a PhD.
 - [Reasons to Pursue a Ph.D.](http://jxyzabc.blogspot.my/2011/12/reasons-to-pursue-phd.html) - A blog post reevaluated the reasons graduate school is worthwhile.

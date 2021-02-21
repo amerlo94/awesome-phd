@@ -6,7 +6,7 @@ This is a fork of this [awesome-phd](https://github.com/imalisamar/awesome-phd) 
 
 Contributions are welcome. Add links through pull requests or create an issue to start a discussion.
 
-It's always been sad to see a service shutdown, a blog stopped or an article been moved. Here is the list where we gather these things [Archived](ARCHIVED.md).
+It's always been sad to see a service shutdown, a blog stopped, or an article been moved. Here is the list where we gather these things [Archived](ARCHIVED.md).
 
 ## Contents
 
@@ -27,10 +27,10 @@ It's always been sad to see a service shutdown, a blog stopped or an article bee
 
 ### Why a PhD
 
-- [Why Am I in Graduate School?](http://cra-ccc.org/lifeofacsgs/why-am-i-in-graduate-school) - Three reasons why to jump in graduate school.
+- [Why Am I in Graduate School?](http://cra-ccc.org/lifeofacsgs/why-am-i-in-graduate-school) - Three reasons to jump in graduate school.
 - [Do You Need a PhD?](http://matt-welsh.blogspot.my/2012/03/do-you-need-phd.html) - Whether it's "worth it" to get a PhD in Computer Science if you're not planning a research career.
 - [So, You Want to Go to Grad School?](http://matt-welsh.blogspot.my/2010/09/so-you-want-to-go-to-grad-school.html) - A blog post which talks about why to do a PhD in Computer Science, and why not to do a PhD.
-- [Reasons to Pursue a Ph.D.](http://jxyzabc.blogspot.my/2011/12/reasons-to-pursue-phd.html) - A blog post reevaluated the reasons why graduate school is worthwhile.
+- [Reasons to Pursue a Ph.D.](http://jxyzabc.blogspot.my/2011/12/reasons-to-pursue-phd.html) - A blog post reevaluated the reasons graduate school is worthwhile.
 
 ### How to apply
 
@@ -45,7 +45,7 @@ It's always been sad to see a service shutdown, a blog stopped or an article bee
 
 - [A Happy PhD: A blog about doctoral productivity, supervision and wellbeing](https://ahappyphd.org/) - A blog about doctoral productivity, supervision and wellbeing.
 - [The Ph.D. Grind](http://bcmi.sjtu.edu.cn/home/niuli/resource/pguo-PhD-grind.pdf) - A Ph.D. Student Memoir.
-- [The Life of an Academic, Explained](http://jxyzabc.blogspot.my/2012/02/life-of-academic-explained.html) - A post ntended for those considering relationships with academics, those thinking about becoming academics, and those bewildered family members of academics.
+- [The Life of an Academic, Explained](http://jxyzabc.blogspot.my/2012/02/life-of-academic-explained.html) - A post intended for those considering relationships with academics, those thinking about becoming academics, and those bewildered family members of academics.
 - [What My PhD Was Like](http://jxyzabc.blogspot.my/2016/02/my-phd-abridged.html) - The experience of a Computer Science PhD students.
 - [So long, and thanks for the Ph.D.!](http://www.cs.unc.edu/~azuma/hitch4.html) - Everything I wanted to know about Computer Science graduate school at the beginning but didn't learn until later.
 - [The PhD Grind, and Why Research Isn't Like Sex](http://blog.regehr.org/archives/743) - A few comments on the "PhD Grind" book.

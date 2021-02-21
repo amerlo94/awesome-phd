@@ -33,17 +33,16 @@ It's always been sad to see a service shutdown, a blog stopped, or an article be
 
 ### How to apply
 
-- [Choosing the Right Grad School](http://www.zephoria.org/thoughts/archives/2009/10/28/choosing_the_ri.html) - Advices for folks applying to graduate school.
-- [Deciding to Apply](http://jxyzabc.blogspot.my/2008/08/cs-grad-school-part-1-deciding-to-apply.html) - Series of blog posts about how, why, where, etc. etc. etc. I applied to grad school.
-- [I Graduated From Harvard and MIT — Here's the Smartest Thing I Did on My Applications](http://www.businessinsider.com/make-college-application-stand-out-2016-12?IR=T&r=US&IR=T) - Make the college application stand out.
-- [A Five-Minute Guide to Ph.D. Program Applications](https://pg.ucsd.edu/PhD-application-tips.htm) - A five-minute reading article to earn how to make your PhD program application the strongest possible.
+- [Choosing the Right Grad School](http://www.zephoria.org/thoughts/archives/2009/10/28/choosing_the_ri.html) - Concrete steps on how to choose the right graduate school and advisor.
+- [A Five-Minute Guide to Ph.D. Program Applications](https://pg.ucsd.edu/PhD-application-tips.htm) - A five-minute reading article to make your PhD application the strongest possible.
+- [Applying to Ph.D. Programs in Computer Science](http://www.cs.cmu.edu/%7Eharchol/gradschooltalk.pdf) - (`CS`)Everything you need to know to apply to a PhD program in Computer Science.
 
 ## Pursuing a PhD
 
 ### Evergreen
 
 - [A Happy PhD: A blog about doctoral productivity, supervision and wellbeing](https://ahappyphd.org/) - A blog about doctoral productivity, supervision and wellbeing.
-- [The Ph.D. Grind](http://bcmi.sjtu.edu.cn/home/niuli/resource/pguo-PhD-grind.pdf) - A Ph.D. Student Memoir.
+- [The Ph.D. Grind](http://bcmi.sjtu.edu.cn/home/niuli/resource/pguo-PhD-grind.pdf) - A PhD Student Memoir.
 - [The Life of an Academic, Explained](http://jxyzabc.blogspot.my/2012/02/life-of-academic-explained.html) - A post intended for those considering relationships with academics, those thinking about becoming academics, and those bewildered family members of academics.
 - [What My PhD Was Like](http://jxyzabc.blogspot.my/2016/02/my-phd-abridged.html) - The experience of a Computer Science PhD students.
 - [So long, and thanks for the Ph.D.!](http://www.cs.unc.edu/~azuma/hitch4.html) - Everything I wanted to know about Computer Science graduate school at the beginning but didn't learn until later.

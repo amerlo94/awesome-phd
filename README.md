@@ -4,7 +4,9 @@
 
 This is a fork of this [awesome-phd](https://github.com/imalisamar/awesome-phd) list.
 
-Contributions are welcome. Add links through pull requests or create an issue to start a discussion. It's always been sad to see a service discontinue, a blog shutdown or an article been moved. Here is the list where we gather these things [Archived](ARCHIVED.md).
+Contributions are welcome. Add links through pull requests or create an issue to start a discussion.
+
+It's always been sad to see a service shutdown, a blog stopped or an article been moved. Here is the list where we gather these things [Archived](ARCHIVED.md).
 
 ## Contents
 

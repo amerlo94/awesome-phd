@@ -27,9 +27,9 @@ It's always been sad to see a service shutdown, a blog stopped, or an article be
 
 ### Why a PhD
 
-- [Do You Need a PhD?](http://matt-welsh.blogspot.my/2012/03/do-you-need-phd.html) - Whether it's "worth it" to get a PhD in Computer Science if you're not planning a research career.
-- [So, You Want to Go to Grad School?](http://matt-welsh.blogspot.my/2010/09/so-you-want-to-go-to-grad-school.html) - A blog post which talks about why to do a PhD in Computer Science, and why not to do a PhD.
-- [Reasons to Pursue a Ph.D.](http://jxyzabc.blogspot.my/2011/12/reasons-to-pursue-phd.html) - A blog post reevaluated the reasons graduate school is worthwhile.
+- [Do You Need a PhD?](http://matt-welsh.blogspot.my/2012/03/do-you-need-phd.html) - What I learned doing a PhD.
+- [So, You Want to Go to Grad School?](http://matt-welsh.blogspot.my/2010/09/so-you-want-to-go-to-grad-school.html) - A blog post which talks about why and why not to do a PhD.
+- [Reasons to Pursue a Ph.D.](http://jxyzabc.blogspot.my/2011/12/reasons-to-pursue-phd.html) - Freedom to work on open-ended questions and to foster personal exploration.
 
 ### How to apply
 

@@ -35,7 +35,7 @@ It's always been sad to see a service shutdown, a blog stopped, or an article be
 
 - [Choosing the Right Grad School](http://www.zephoria.org/thoughts/archives/2009/10/28/choosing_the_ri.html) - Concrete steps on how to choose the right graduate school and advisor.
 - [A Five-Minute Guide to Ph.D. Program Applications](https://pg.ucsd.edu/PhD-application-tips.htm) - A five-minute reading article to make your PhD application the strongest possible.
-- [Applying to Ph.D. Programs in Computer Science](http://www.cs.cmu.edu/%7Eharchol/gradschooltalk.pdf) - (`CS`)Everything you need to know to apply to a PhD program in Computer Science.
+- [Applying to Ph.D. Programs in Computer Science](http://www.cs.cmu.edu/%7Eharchol/gradschooltalk.pdf) - (`CS`) Everything you need to know to apply to a PhD program in Computer Science.
 
 ## Pursuing a PhD
 
@@ -43,12 +43,11 @@ It's always been sad to see a service shutdown, a blog stopped, or an article be
 
 - [A Happy PhD: A blog about doctoral productivity, supervision and wellbeing](https://ahappyphd.org/) - A blog about doctoral productivity, supervision and wellbeing.
 - [The Ph.D. Grind](http://bcmi.sjtu.edu.cn/home/niuli/resource/pguo-PhD-grind.pdf) - A PhD Student Memoir.
-- [The Life of an Academic, Explained](http://jxyzabc.blogspot.my/2012/02/life-of-academic-explained.html) - A post intended for those considering relationships with academics, those thinking about becoming academics, and those bewildered family members of academics.
-- [What My PhD Was Like](http://jxyzabc.blogspot.my/2016/02/my-phd-abridged.html) - The experience of a Computer Science PhD students.
 - [So long, and thanks for the Ph.D.!](http://www.cs.unc.edu/~azuma/hitch4.html) - Everything I wanted to know about Computer Science graduate school at the beginning but didn't learn until later.
-- [The PhD Grind, and Why Research Isn't Like Sex](http://blog.regehr.org/archives/743) - A few comments on the "PhD Grind" book.
-- [14 Essential PhD Questions Answered](https://www.timeshighereducation.com/news/14-essential-phd-questions-answered/2006473.article?page=0%2C5) - A series of videos on PhD related questions.
-- [Useful Thoughts About Research](http://www.eecs.harvard.edu/htk/phdadvice/) - What is research?
+- [The PhD Grind, and Why Research Isn't Like Sex](http://blog.regehr.org/archives/743) - A few comments on the "Ph.D. Grind" book.
+- [14 Essential PhD Questions Answered](https://www.timeshighereducation.com/news/14-essential-phd-questions-answered/2006473.article?page=0%2C5) - A series of videos on the  most commonly asked PhD related questions.
+- [Useful Thoughts About Research](http://www.eecs.harvard.edu/htk/phdadvice/) - (`CS`) Advices on research and graduate school.
+- [What My PhD Was Like](http://jxyzabc.blogspot.my/2016/02/my-phd-abridged.html) - (`CS`) Why graduate school was one of the best periods of my life: the experiences of a Computer Science PhD student.
 
 ### Early-stage
 

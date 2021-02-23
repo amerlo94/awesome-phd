@@ -65,10 +65,10 @@ It's always been sad to see a service shutdown, a blog stopped, or an article be
 
 ### How to do research
 
-- [Advice for Students and Junior Researchers](http://www.markus-jakobsson.com/advice-for-students-and-junior-researchers) - A talk about goals, failure, forgetting, formulating questions, heroes, communicating insights and much more.
 - [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html) - Why do so few scientists make significant contributions and so many are forgotten in the long run?
 - [How to Have a Bad Career in Research/Academia](https://people.eecs.berkeley.edu/~pattrsn/talks/research.pdf) - Talk which includes advice for graduate students and people starting their research careers post PhD.
-- [Software Is Not Science](http://matt-welsh.blogspot.my/2011/11/software-is-not-science.html) - How do you write a paper about a piece of software?
+- [Advice for Students and Junior Researchers](http://www.markus-jakobsson.com/advice-for-students-and-junior-researchers) - A talk about goals, failure, forgetting, formulating questions, heroes, communicating insights and much more.
+- [Software Is Not Science](http://matt-welsh.blogspot.my/2011/11/software-is-not-science.html) - (`CS`) How do you write a paper about a piece of software?
 
 ### Reading
 

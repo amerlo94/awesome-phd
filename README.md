@@ -52,10 +52,10 @@ It's always been sad to see a service shutdown, a blog stopped, or an article be
 ### Early-stage
 
 - [The Illustrated Guide to a Ph.D.](http://matt.might.net/articles/phd-school-in-pictures/) - A brief guide (with pictures) to explain what a PhD is to new and aspiring graduate students.
-- [A Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/) - A list of tips and tricks for effectively navigating the PhD experience once you commit to going through it.
+- [Some Modest Advice for Graduate Students](http://stearnslab.yale.edu/some-modest-advice-graduate-students) - Some Modest Advice for Graduate Students.
+- [Advice for early-stage Ph.D. students](https://pg.ucsd.edu/early-stage-PhD-advice.htm) - A guide to bookmark and read it again once every month.
 - [10 Easy Ways to Fail a Ph.D.](http://matt.might.net/articles/ways-to-fail-a-phd/) - A catalog of the common reasons for failure.
-- [Some Modest Advice for Graduate Students](http://stearnslab.yale.edu/some-modest-advice-graduate-students) - A list of advices for graduate students.
-- [Advice for early-stage Ph.D. students](https://pg.ucsd.edu/early-stage-PhD-advice.htm) - A guide to bookmark and read it once a week.
+- [A Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/) - A list of tips and tricks for effectively navigating the PhD experience once you commit to going through it.
 
 ### Late-stage
 

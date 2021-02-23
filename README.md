@@ -59,7 +59,6 @@ It's always been sad to see a service shutdown, a blog stopped, or an article be
 
 ### Late-stage
 
-- [How Science Really Works](http://jxyzabc.blogspot.my/2013/01/how-science-really-works.html) - Theory vs. practice.
 - [A Collection of Advices for Authoring a PhD or Academic Book](https://medium.com/advice-and-help-in-authoring-a-phd-or-non-fiction) - A collection of resources that provide real practical help for researchers writing creative non-fiction.
 
 ## Research

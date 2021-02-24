@@ -79,15 +79,16 @@ It's always been sad to see a service shutdown, a blog stopped, or an article be
 
 ### Writing
 
-- [Writing Tips for Ph.D. Students](https://faculty.chicagobooth.edu/john.cochrane/research/papers/phd_paper_writing.pdf) - A short pamphlet on how to put your research in written words.
-- [How to Prepare a Manuscript for International Journals](https://www.elsevier.com/connect/six-things-to-do-before-writing-your-manuscript) - Six things to do before writing your manuscript.
-- [How to Write a Paper](http://www-mech.eng.cam.ac.uk/mmd/ashby-paper-V6.pdf) - A brief manual on how to write a paper about your research.
 - [The Elements of Style](http://www.bartleby.com/141/) - A book which gives in brief space the principal requirements of plain English style and concentrates attention on the rules of usage and principles of composition most commonly violated.
-- [Writing Technical Articles](http://www.cs.columbia.edu/~hgs/etc/writing-style.html) - A series of notes which mainly apply to technical papers in computer science and electrical engineering.
+- [Writing Tips for Ph.D. Students](http://schwert.ssb.rochester.edu/aec510/phd_paper_writing.pdf) - A short pamphlet on how to put your research in written words.
+- [How to Write a Paper](http://www-mech.eng.cam.ac.uk/mmd/ashby-paper-V6.pdf) - A brief manual on how to write a paper about your research.
+- [Writing Technical Articles](http://www.cs.columbia.edu/~hgs/etc/writing-style.html) - (`CS`) A series of notes which mainly apply to technical papers in computer science and electrical engineering.
+- [The Craft of Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM&feature=youtu.be) - Helpful rules, skills, and resources that are available to graduate students interested in further developing their writing style.
 - [Coping With Issues of Sloppiness and Carelessness in Writing](http://asegrp.blogspot.my/2011/06/coping-with-issues-of-sloppiness-and.html) - Initial suggestions to students on how to cope with the issues of sloppiness and carelessness in writing.
 - [Steps to Write a Survey Paper](http://researchpedia.info/steps-to-write-a-survey-paper/) - Post on how to write a survey paper/review article.
 - [The Literature Review](http://www.writing.utoronto.ca/advice/specific-types-of-writing/literature-review) - A few tips on conducting it.
-- [The Craft of Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM&feature=youtu.be) - Helpful rules, skills, and resources that are available to graduate students interested in further developing their writing style.
+- [How to Prepare a Manuscript for International Journals](https://www.elsevier.com/connect/six-things-to-do-before-writing-your-manuscript) - Six things to do before writing your manuscript.
+
 
 ### Tools
 

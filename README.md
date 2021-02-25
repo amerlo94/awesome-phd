@@ -69,6 +69,7 @@ It's always been sad to see a service shutdown, a blog stopped, or an article be
 - [How to Have a Bad Career in Research/Academia](https://people.eecs.berkeley.edu/~pattrsn/talks/research.pdf) - Talk which includes advice for graduate students and people starting their research careers post PhD.
 - [Advice for Students and Junior Researchers](http://www.markus-jakobsson.com/advice-for-students-and-junior-researchers) - A talk about goals, failure, forgetting, formulating questions, heroes, communicating insights and much more.
 - [Software Is Not Science](http://matt-welsh.blogspot.my/2011/11/software-is-not-science.html) - (`CS`) How do you write a paper about a piece of software?
+- [Ten Simple Rules](https://collections.plos.org/collection/ten-simple-rules/) - Concentrated guides for mastering some of the professional challenges research scientists face in their careers.
 
 ### Reading
 
@@ -92,5 +93,10 @@ It's always been sad to see a service shutdown, a blog stopped, or an article be
 
 ### Tools
 
-- [awesome-research](https://github.com/emptymalei/awesome-research) - A list of awesome tools for your research.
+> For research tools, check out [awesome-research](https://github.com/emptymalei/awesome-research) on GitHub.
+
+- [Tools for Academic Research](https://tools.kausalflow.com/) - A curated list of tools for researchers to help researchers save time.
+- [Connected Papers](https://www.connectedpapers.com/) - Tool to help researchers and applied scientists find and explore papers relevant to their field of work.
+- [Papers with Code](https://paperswithcode.com/) - (`CS`, `ML`) Free and open resource with Machine Learning papers, code and evaluation tables.
+- [Semantic Scholar](https://www.semanticscholar.org) - AI-powered research tool for scientific literature.
 - [tikzplotlib](https://github.com/nschloe/tikzplotlib) - A Python tool for converting matplotlib figures into PGFPlots (PGF/TikZ) figures like.

@@ -23,6 +23,7 @@ It's always been sad to see a service shutdown, a blog stopped, or an article be
     - [Writing](#writing)
     - [Grants](#grants)
     - [Tools](#tools)
+- [Meta](#meta)
 
 ## Applying for a PhD
 
@@ -42,7 +43,6 @@ It's always been sad to see a service shutdown, a blog stopped, or an article be
 
 ### Evergreen
 
-- [A Happy PhD: A blog about doctoral productivity, supervision and wellbeing](https://ahappyphd.org/) - A blog about doctoral productivity, supervision and wellbeing.
 - [The Ph.D. Grind](http://bcmi.sjtu.edu.cn/home/niuli/resource/pguo-PhD-grind.pdf) - A PhD Student Memoir.
 - [So long, and thanks for the Ph.D.!](http://www.cs.unc.edu/~azuma/hitch4.html) - Everything I wanted to know about Computer Science graduate school at the beginning but didn't learn until later.
 - [The PhD Grind, and Why Research Isn't Like Sex](http://blog.regehr.org/archives/743) - A few comments on the "Ph.D. Grind" book.
@@ -107,3 +107,10 @@ It's always been sad to see a service shutdown, a blog stopped, or an article be
 - [Papers with Code](https://paperswithcode.com/) - (`CS`, `ML`) Free and open resource with Machine Learning papers, code and evaluation tables.
 - [Semantic Scholar](https://www.semanticscholar.org) - AI-powered research tool for scientific literature.
 - [tikzplotlib](https://github.com/nschloe/tikzplotlib) - A Python tool for converting matplotlib figures into PGFPlots (PGF/TikZ) figures like.
+
+## Meta
+
+- [A Happy PhD: A blog about doctoral productivity, supervision and wellbeing](https://ahappyphd.org/) - A blog about doctoral productivity, supervision and wellbeing.
+- [PhD Talk](https://www.evalantsoght.com/) - Manage your research and have fun along the way!
+- [Ten great blogs for PhD students](https://www.evalantsoght.com/2012/06/ten-great-blogs-for-phd-students.html) - A collection of blogs for PhD students.
+- [Twenty best books for researchers](https://www.evalantsoght.com/2017/04/phd-talk-for-academictransfer-twenty-best-books-for-researchers.html) - Books recommended for researchers.
